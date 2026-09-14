@@ -13,4 +13,4 @@
 
 # Как начать работу
 Пожалуйста, ознакомьтесь с документацией:
-[Documentation](DOCUMENTATION/start.md)
+[Documentation](DOCUMENTATION/start_ru.md)
