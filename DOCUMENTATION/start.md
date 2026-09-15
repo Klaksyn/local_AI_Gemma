@@ -1,3 +1,5 @@
+# [RU](start_ru.md) | EN
+
 # DOCUMENTATION FOR START USING LOCAL AI Gemma 4b
 1) Install Ollama from the [official website](https://ollama.com/download)
 2) Run Ollama (type this command in PowerShell / CMD / Terminal):
